@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GreatAlmighty
+- 👋 Hi, I’m Aster
 - 👀 I’m interested in learning JavaScript, TypeScript and React with Next.Js
 - 🌱 I’m currently learning JavaScript Basics
 - 💞️ I’m looking to collaborate on similar projects.
